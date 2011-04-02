@@ -1,0 +1,11 @@
+AutoHideToolbar
+===============
+
+* Can Hide/Show the CKEditor's toolbar dynamically when the Editor has or not the focus.
+
+
+TODO
+====
+
+* add a sample
+* add configuration
